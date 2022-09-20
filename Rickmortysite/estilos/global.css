@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@200;400;600;800 & display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins';
+    font-size: 0.7rem;
+    font-weight: 600;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+:root{
+    --primaryColor:#030328;
+}
+footer{
+    color: white;
+    position: relative;
+}
