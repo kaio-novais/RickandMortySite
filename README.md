@@ -10,8 +10,8 @@ Para ver este projeto em execução ´necessario baixar os arquivos e execultar 
 
 
 <ol>
-  <li>Estilos especificos<li>
-  <li>*Encapsulamento de componentes*(sem framework)<li>
-  <li>HTML *seco*<li>
+  <li>Estilos especificos</li>
+  <li> v*Encapsulamento de componentes* (sem framework)</li>
+  <li>HTML *seco*</li>
 <ol> 
     
